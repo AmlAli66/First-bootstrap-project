@@ -194,6 +194,7 @@ input:checked + .slider:before {
 .side-icons i {
   font-size: 55px;
   color: rgba(255, 129, 129, 0.838);
+  transition: all 0.5s;
 }
 /* /////////////////////////////////////////////////////////////////////////////////////////////// */
 .carousel-item img {
